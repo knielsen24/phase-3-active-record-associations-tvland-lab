@@ -1,4 +1,4 @@
-# Active Record TV Land Lab
+t.string :first_name# Active Record TV Land Lab
 
 ## Learning Goals
 
